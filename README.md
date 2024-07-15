@@ -1,3 +1,1 @@
-# Spanish-lyrics-dataset-for-LGBTQ-phobia-screening
-
-Hola
+# Spanish lyrics dataset for LGBTQ+phobia screening
