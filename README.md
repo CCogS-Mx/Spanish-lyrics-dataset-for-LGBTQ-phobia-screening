@@ -1,7 +1,7 @@
 # Spanish lyrics dataset for LGBTQ+phobia screening
 
 ## Overview
-The corpus developed for task three is composed of songs written in Spanish that may contain LGBTQ+phobic text or not (non-phobic). LGBTQ+phobia in the corpus can be identified in two different ways:
+The corpus developed for this task is composed of songs written in Spanish that may contain LGBTQ+phobic text or not (non-phobic). LGBTQ+phobia in the corpus can be identified in two different ways:
 1. **Directly**: Through the use of textual terminology, slang, and general slurs to refer to members of the LGBTQ+ community.
 2. **Indirectly**: By using semantic relationships. Typically, this involves metaphors where lyrics convey a figurative meaning beyond their literal interpretation.
 
