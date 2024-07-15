@@ -21,7 +21,7 @@ Researchers and developers can use this corpus to:
 - Develop tools and applications to identify and mitigate the spread of LGBTQ+phobia in media and texts.
 
 ## Citation
-Miguel Soto, & Cesar Macias. (2024). CCogS-Mx/Spanish-lyrics-dataset-for-LGBTQ-phobia-screening: Spanish lyrics dataset for LGBTQ+phobia screening (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.12747180 
+Miguel Soto, Cesar Macias, & Tania Alcantara. (2024). CCogS-Mx/Spanish-lyrics-dataset-for-LGBTQ-phobia-screening: Spanish lyrics dataset for LGBTQ+phobia screening (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.12747190
 
 ## Contributions
 Contributions to this repository are welcome. If you have any suggestions for improving the corpus or identifying additional phobic content, please submit a pull request or open an issue.
@@ -32,6 +32,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For any inquiries or further information, please contact [Computing Cognitive Science Lab](mailto:ccogs.mx@gmail.com).
 
----- (:
+---
 
 Thank you for your interest in this project. Together, we can work towards creating a more inclusive and respectful media landscape.
