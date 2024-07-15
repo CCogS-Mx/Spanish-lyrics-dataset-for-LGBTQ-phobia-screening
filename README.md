@@ -32,6 +32,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For any inquiries or further information, please contact [Computing Cognitive Science Lab](mailto:ccogs.mx@gmail.com).
 
----
+---- (:
 
 Thank you for your interest in this project. Together, we can work towards creating a more inclusive and respectful media landscape.
