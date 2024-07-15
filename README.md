@@ -27,7 +27,7 @@ Contributions to this repository are welcome. If you have any suggestions for im
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-For any inquiries or further information, please contact [Miguel Soto](mailto:ccogs.mx@gmail.com).
+For any inquiries or further information, please contact [Computing Cognitive Science Lab](mailto:ccogs.mx@gmail.com).
 
 ---
 
